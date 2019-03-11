@@ -1,0 +1,6 @@
+#Processes for the MagAO-X RTC
+#process-ID    Executable
+isRTC          xindiserver
+camwfs         ocam2KCtrl
+rtc_icc_indi   sshDigger
+
