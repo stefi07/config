@@ -1,0 +1,17 @@
+#Processes for the MagAO-X ICC
+#process-ID    Executable
+isICC          xindiserver
+pdu0           trippLitePDU
+pdu1           trippLitePDU
+pdu2           trippLitePDU
+camsci1        picamCtrl
+camsci2        picamCtrl
+fxngenmodwfs   siglentSDG
+modwfs         ttmModulator 
+icc_rtc_indi   sshDigger
+aoc_rtc_milkzmq_camwfs sshDigger
+aoc_rtc_milkzmq_dmwoofer sshDigger
+aoc_rtc_milkzmq_dmwoofer00 sshDigger
+aoc_rtc_milkzmq_dmwoofer01 sshDigger
+aoc_rtc_milkzmq_dmwoofer02 sshDigger
+
