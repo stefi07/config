@@ -6,12 +6,23 @@ pdu1           trippLitePDU
 pdu2           trippLitePDU
 camsci1        picamCtrl
 camsci2        picamCtrl
+camsciBasler   baslerCtrl
+fwlyot	       filterWheelCtrl
+fwsci1         filterWheelCtrl
+fwsci2         filterWheelCtrl
 fxngenmodwfs   siglentSDG
 modwfs         ttmModulator 
+xt1121_1       xt1121Ctrl
 icc_rtc_indi   sshDigger
 aoc_rtc_milkzmq_camwfs sshDigger
+aoc_rtc_milkzmq_wfsdark sshDigger
 aoc_rtc_milkzmq_dmwoofer sshDigger
 aoc_rtc_milkzmq_dmwoofer00 sshDigger
 aoc_rtc_milkzmq_dmwoofer01 sshDigger
 aoc_rtc_milkzmq_dmwoofer02 sshDigger
+aoc_rtc_milkzmq_dmwoofer03 sshDigger
+aoc_rtc_milkzmq_dmwoofer11 sshDigger
+aoc_rtc_milkzmq_dmtweeter sshDigger
+aoc_rtc_milkzmq_dmtweeter00 sshDigger
+aoc_rtc_milkzmq_dmtweeter03 sshDigger
 
