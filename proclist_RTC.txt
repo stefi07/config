@@ -1,6 +1,17 @@
 #Processes for the MagAO-X RTC
 #process-ID    Executable
-isRTC          xindiserver
-camwfs         ocam2KCtrl
-rtc_icc_indi   sshDigger
+isRTC           xindiserver
+camwfs          ocam2KCtrl
+rtc_icc_indi    sshDigger
+mzmqServerRTC    mzmqServer
+#mzmqs_wfsdark   mzmqServer
+#mzmqs_woofer    mzmqServer
+#mzmqs_woofer00  mzmqServer
+#mzmqs_woofer01  mzmqServer
+#mzmqs_woofer02  mzmqServer
+#mzmqs_woofer03  mzmqServer
+#mzmqs_woofer11  mzmqServer #Used for mask
+#mzmqs_tweeter   mzmqServer
+#mzmqs_tweeter00 mzmqServer
+#mzmqs_tweeter03 mzmqServer
 
