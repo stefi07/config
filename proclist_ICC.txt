@@ -1,12 +1,9 @@
 #Processes for the MagAO-X ICC
 #process-ID    Executable
 isICC          xindiserver
-pdu0           trippLitePDU
-pdu1           trippLitePDU
-pdu2           trippLitePDU
 camsci1        picamCtrl
 camsci2        picamCtrl
-camsciBasler   baslerCtrl
+camlowfs       andorCtrl
 fwpupil        filterWheelCtrl
 fwfpm          filterWheelCtrl
 fwlyot	       filterWheelCtrl
@@ -20,16 +17,8 @@ xt1121_1       xt1121Ctrl
 xt1121_2       xt1121Ctrl
 dcdu0          xt1121DCDU
 dcdu1          xt1121DCDU
+mzmqServerICC  mzmqServer
+icc_aoc_indi   sshDigger
 icc_rtc_indi   sshDigger
-aoc_rtc_milkzmq sshDigger
-#aoc_rtc_milkzmq_wfsdark sshDigger
-#aoc_rtc_milkzmq_dmwoofer sshDigger
-#aoc_rtc_milkzmq_dmwoofer00 sshDigger
-#aoc_rtc_milkzmq_dmwoofer01 sshDigger
-#aoc_rtc_milkzmq_dmwoofer02 sshDigger
-#aoc_rtc_milkzmq_dmwoofer03 sshDigger
-#aoc_rtc_milkzmq_dmwoofer11 sshDigger
-#aoc_rtc_milkzmq_dmtweeter sshDigger
-#aoc_rtc_milkzmq_dmtweeter00 sshDigger
-#aoc_rtc_milkzmq_dmtweeter03 sshDigger
+
 
