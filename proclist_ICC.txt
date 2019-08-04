@@ -4,6 +4,7 @@ isICC          xindiserver
 camsci1        picamCtrl
 camsci2        picamCtrl
 camlowfs       andorCtrl
+pwfsTipBasler  baslerCtrl
 fwpupil        filterWheelCtrl
 fwfpm          filterWheelCtrl
 fwlyot	       filterWheelCtrl
