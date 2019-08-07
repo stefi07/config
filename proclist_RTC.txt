@@ -4,6 +4,7 @@ isRTC          xindiserver
 camwfs         ocam2KCtrl
 fxngenmodwfs   siglentSDG
 modwfs         ttmModulator
+wooferModes    dmMode
 mzmqServerRTC   mzmqServer
 rtc_icc_indi   sshDigger
 rtc_aoc_indi   sshDigger
