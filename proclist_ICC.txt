@@ -12,10 +12,15 @@ fwlowfs        filterWheelCtrl
 fwsci1         filterWheelCtrl
 fwsci2         filterWheelCtrl
 zaberLowLevel  zaberLowLevel
+stagelowfs     zaberCtrl
+stagesci1      zaberCtrl
+stagesci2      zaberCtrl
+stagescibs     zaberCtrl
 xt1121_1       xt1121Ctrl
 xt1121_2       xt1121Ctrl
 dcdu0          xt1121DCDU
 dcdu1          xt1121DCDU
+dmncpc         alpaoCtrl
 ncpcModes      dmMode
 mzmqServerICC  mzmqServer
 icc_aoc_indi   sshDigger
