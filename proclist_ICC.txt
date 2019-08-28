@@ -2,9 +2,13 @@
 #process-ID    Executable
 isICC          xindiserver
 camsci1        picamCtrl
+swcamsci1      streamWriter
 camsci2        picamCtrl
+swcamsci2      streamWriter
 camlowfs       andorCtrl
+swcamlowfs     streamWriter
 pwfsTipBasler  baslerCtrl
+swpwfsTip      streamWriter
 fwpupil        filterWheelCtrl
 fwfpm          filterWheelCtrl
 fwlyot	       filterWheelCtrl
