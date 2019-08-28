@@ -3,10 +3,14 @@
 isRTC          xindiserver
 camwfs         ocam2KCtrl
 swcamwfs       streamWriter
+camwfs-avg     shmimIntegrator
+camwfs-fit     pupilFit
 fxngenmodwfs   siglentSDG
 modwfs         ttmModulator
-dmwoofer         alpaoCtrl
+dmtweeter      bmcCtrl
+dmwoofer       alpaoCtrl
 wooferModes    dmMode
-mzmqServerRTC   mzmqServer
+mzmqServerRTC  mzmqServer
 rtc_icc_indi   sshDigger
 rtc_aoc_indi   sshDigger
+ttmpupil       pi335Ctrl
