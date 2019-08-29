@@ -2,7 +2,7 @@
 #process-ID    Executable
 isRTC          xindiserver
 camwfs         ocam2KCtrl
-swcamwfs       streamWriter
+camwfs-sw      streamWriter
 camwfs-avg     shmimIntegrator
 camwfs-fit     pupilFit
 fxngenmodwfs   siglentSDG
