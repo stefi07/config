@@ -1,4 +1,4 @@
-name: dev
+name: py37
 channels:
   - defaults
 dependencies:
@@ -117,5 +117,7 @@ dependencies:
   - zlib=1.2.11=h7b6447c_3
   - pip:
     - poppy==0.8.0
+    - git+https://github.com/magao-x/dmtools.git
+    - git+https://github.com/magao-x/purepyindi.git
 prefix: /opt/miniconda3/envs/py37
 
