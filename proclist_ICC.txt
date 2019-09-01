@@ -15,6 +15,8 @@ fwlyot	       filterWheelCtrl
 fwlowfs        filterWheelCtrl
 fwsci1         filterWheelCtrl
 fwsci2         filterWheelCtrl
+fwscind        hsfwCtrl
+fwtelsim       hsfwCtrl
 zaberLowLevel  zaberLowLevel
 stagelowfs     zaberCtrl
 stagesci1      zaberCtrl
