@@ -8,7 +8,7 @@ swcamsci2      streamWriter
 camlowfs       andorCtrl
 swcamlowfs     streamWriter
 pwfsTipBasler  baslerCtrl
-swpwfsTip      streamWriter
+pwfsTip-sw     streamWriter
 fwpupil        filterWheelCtrl
 fwfpm          filterWheelCtrl
 fwlyot	       filterWheelCtrl
@@ -22,6 +22,10 @@ stagelowfs     zaberCtrl
 stagesci1      zaberCtrl
 stagesci2      zaberCtrl
 stagescibs     zaberCtrl
+stagek         smc100ccCtrl
+stageadc1      smc100ccCtrl
+stageadc2      smc100ccCtrl
+stagepickoff   smc100ccCtrl
 xt1121_1       xt1121Ctrl
 xt1121_2       xt1121Ctrl
 dcdu0          xt1121DCDU
