@@ -22,6 +22,7 @@ stagelowfs     zaberCtrl
 stagesci1      zaberCtrl
 stagesci2      zaberCtrl
 stagescibs     zaberCtrl
+stageeyepiece  zaberCtrl
 stagek         smc100ccCtrl
 stageadc1      smc100ccCtrl
 stageadc2      smc100ccCtrl
