@@ -4,6 +4,7 @@ isAOC          xindiserver
 pdu0           trippLitePDU
 pdu1           trippLitePDU
 pdu2           trippLitePDU
+pdu3           trippLitePDU
 aoc_icc_indi   sshDigger
 aoc_rtc_indi   sshDigger
 aoc_icc_milkzmq sshDigger
