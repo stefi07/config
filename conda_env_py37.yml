@@ -83,6 +83,7 @@ dependencies:
   - nbformat=4.4.0=py37_0
   - ncurses=6.1=he6710b0_1
   - networkx=2.3=py_0
+  - nodejs=11.14.0=he1b5a44_1
   - notebook=6.0.0=py37_0
   - numpy=1.16.4=py37h7e9f1db_0
   - numpy-base=1.16.4=py37hde5b4d6_0
@@ -124,6 +125,7 @@ dependencies:
   - pyzmq=18.0.0=py37he6710b0_0
   - qt=5.9.7=h5867ecd_1
   - qtconsole=4.5.2=py_0
+  - qwt=6.1.4=h279c94e_1003
   - readline=7.0=h7b6447c_5
   - requests=2.22.0=py37_1
   - requests-async=0.5.0=py_0
@@ -156,7 +158,11 @@ dependencies:
   - zlib=1.2.11=h7b6447c_3
   - zstd=1.3.7=h0b5b093_0
   - pip:
+    - ipympl==0.3.3
+    - jsonpatch==1.24
+    - jsonpointer==2.0
+    - optional-django==0.1.0
     - poppy==0.8.0
-    - python-engineio>=3.9.0
+    - python-engineio==3.9.3
     - python-socketio==4.3.0
 prefix: /opt/miniconda3/envs/py37
