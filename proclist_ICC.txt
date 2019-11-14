@@ -7,8 +7,10 @@ camsci2        picamCtrl
 swcamsci2      streamWriter
 camlowfs       andorCtrl
 swcamlowfs     streamWriter
+fliptip        flipperCtrl
 camtip         baslerCtrl
 camtip-sw      streamWriter
+flipacq        flipperCtrl
 camacq         baslerCtrl
 camacq-sw      streamWriter
 fwpupil        filterWheelCtrl
