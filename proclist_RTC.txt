@@ -8,8 +8,12 @@ camwfs-fit     pupilFit
 fxngenmodwfs   siglentSDG
 modwfs         ttmModulator
 dmtweeter      bmcCtrl
+dmtweeter-avg  shmimIntegrator
+tweeterModes   dmMode
 dmwoofer       alpaoCtrl
+dmwoofer-avg   shmimIntegrator
 wooferModes    dmMode
+t2wOffloader   t2wOffloader
 mzmqServerRTC  mzmqServer
 rtc_icc_indi   sshDigger
 rtc_aoc_indi   sshDigger
