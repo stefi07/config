@@ -18,4 +18,4 @@ mzmqServerRTC  mzmqServer
 rtc_icc_indi   sshDigger
 rtc_aoc_indi   sshDigger
 ttmpupil       pi335Ctrl
-sysMonRTC      systemMonitor
+sysMonRTC      sysMonitor

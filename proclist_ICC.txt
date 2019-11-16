@@ -41,6 +41,6 @@ ncpcModes      dmMode
 mzmqServerICC  mzmqServer
 icc_aoc_indi   sshDigger
 icc_rtc_indi   sshDigger
-sysMonICC      systemMonitor
+sysMonICC      sysMonitor
 temprack       usbtempMon
 
