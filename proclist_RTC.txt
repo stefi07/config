@@ -1,6 +1,7 @@
 #Processes for the MagAO-X RTC
 #process-ID    Executable
 isRTC          xindiserver
+aoloop         cacaoInterface
 camwfs         ocam2KCtrl
 camwfs-sw      streamWriter
 camwfs-avg     shmimIntegrator
@@ -14,6 +15,7 @@ dmwoofer       alpaoCtrl
 dmwoofer-avg   shmimIntegrator
 wooferModes    dmMode
 t2wOffloader   t2wOffloader
+w2tcsOffloader w2tcsOffloader
 mzmqServerRTC  mzmqServer
 rtc_icc_indi   sshDigger
 rtc_aoc_indi   sshDigger
