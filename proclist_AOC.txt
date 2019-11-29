@@ -6,6 +6,7 @@ pdu1           trippLitePDU
 pdu2           trippLitePDU
 pdu3           trippLitePDU
 tcsi           tcsInterface
+adctrack       adcTracker
 aoc_icc_indi   sshDigger
 aoc_rtc_indi   sshDigger
 aoc_icc_milkzmq sshDigger
