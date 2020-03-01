@@ -4,6 +4,7 @@ isRTC          xindiserver
 aoloop         cacaoInterface
 camwfs         ocam2KCtrl
 camwfs-sw      streamWriter
+camwfs-slopes  pwfsSlopeCalc
 camwfs-avg     shmimIntegrator
 camwfs-fit     pupilFit
 fxngenmodwfs   siglentSDG
