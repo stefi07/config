@@ -31,6 +31,8 @@ stagek         smc100ccCtrl
 stageadc1      smc100ccCtrl
 stageadc2      smc100ccCtrl
 stagepickoff   smc100ccCtrl
+stagecamlensx  smc100ccCtrl
+stagecamlensy  smc100ccCtrl
 xt1121_1       xt1121Ctrl
 xt1121_2       xt1121Ctrl
 dcdu0          xt1121DCDU
