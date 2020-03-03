@@ -2,10 +2,13 @@
 #process-ID    Executable
 isICC          xindiserver
 camsci1        picamCtrl
+camsci1-dark   shmimIntegrator
 camsci1-sw      streamWriter
 camsci2        picamCtrl
+camsci2-dark   shmimIntegrator
 camsci2-sw      streamWriter
 camlowfs       andorCtrl
+camlowfs-dark  shmimIntegrator
 camlowfs-sw     streamWriter
 fliptip        flipperCtrl
 camtip         baslerCtrl
