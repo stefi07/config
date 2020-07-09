@@ -47,5 +47,6 @@ mzmqServerICC  mzmqServer
 icc_aoc_indi   sshDigger
 icc_rtc_indi   sshDigger
 sysMonICC      sysMonitor
-temprack       usbtempMon
+# jlong:2020-07-09: temporarily disabled since they're not working and filling the kernel log:
+# temprack       usbtempMon
 instCool       koolanceCtrl
