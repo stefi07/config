@@ -1,6 +1,5 @@
-# Processes for configuration to exercise magaoxMaths
-# Process-ID            Executable
-isVM                    xindiserver
-maths_x                 magAOXMaths
-maths_y                 magAOXMaths
-timeSeriesSimulator     timeSeriesSimulator
+#Processes for the MagAO-X ICC
+#process-ID    Executable
+vm_aoc_indi          sshDigger
+vm_aoc_rtc_milkzmq   sshDigger
+vm_aoc_icc_milkzmq   sshDigger
