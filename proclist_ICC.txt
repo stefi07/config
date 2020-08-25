@@ -48,6 +48,5 @@ mzmqServerICC  mzmqServer
 icc_aoc_indi   sshDigger
 icc_rtc_indi   sshDigger
 sysMonICC      sysMonitor
-# jlong:2020-07-09: temporarily disabled since they're not working and filling the kernel log:
-# temprack       usbtempMon
+temprack       usbtempMon
 instCool       koolanceCtrl
