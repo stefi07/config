@@ -42,6 +42,7 @@ xt1121_2       xt1121Ctrl
 dcdu0          xt1121DCDU
 dcdu1          xt1121DCDU
 usbdu0         acronameUsbHub
+usbdu1         acronameUsbHub
 dmncpc         alpaoCtrl
 ncpcModes      dmMode
 mzmqServerICC  mzmqServer
