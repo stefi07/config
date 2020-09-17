@@ -13,6 +13,7 @@ camlowfs-sw     streamWriter
 fliptip        flipperCtrl
 camtip         baslerCtrl
 camtip-sw      streamWriter
+flipwfsf       flipperCtrl
 flipacq        flipperCtrl
 camacq         baslerCtrl
 camacq-sw      streamWriter
