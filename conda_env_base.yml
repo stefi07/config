@@ -1,0 +1,38 @@
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - jupyter
+  - astropy
+  - av
+  - ffmpeg
+  - ipython
+  - ipywidgets
+  - libopus
+  - notebook
+  - blas=*=mkl
+  - ujson
+  - numpy
+  - scipy
+  - matplotlib
+  - pip
+  - uvloop
+  - pytest
+  - nb_conda_kernels
+  - websockets
+  - cupy
+  - cudatoolkit=10.1
+  - fftw
+  - pyfftw
+  - line_profiler
+  - pyyaml
+  - numexpr
+  - qt=5
+  - qwt
+
+  - pip:
+    - asdf
+    - poppy
+    - hcipy
+    - python-engineio
+    - python-socketio
