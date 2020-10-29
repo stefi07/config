@@ -4,35 +4,48 @@ channels:
 dependencies:
   - jupyter
   - astropy
-  - av
-  - ffmpeg
   - ipython
   - ipywidgets
-  - libopus
   - notebook
   - blas=*=mkl
-  - ujson
   - numpy
   - scipy
   - matplotlib
+  - numexpr
+  - Pillow
   - pip
-  - uvloop
   - pytest
   - nb_conda_kernels
-  - websockets
   - cupy
   - cudatoolkit=10.1
-  - fftw
-  - pyfftw
   - line_profiler
-  - pyyaml
-  - numexpr
+  - pyfftw
+  # GUIs
   - qt=5
   - qwt
+  # video streaming
+  - cffi
+  - crc32c
+  - cryptography
+  - av
+  - pyee
+  - ffmpeg
+  - libopus
+  - libvpx
+  # web ui
+  - websockets
+  - ujson
+  - uvloop
+  # hcipy deps available in conda
+  - asdf
+  - pyyaml
+  - imageio
+  - xxhash
 
   - pip:
-    - asdf
-    - poppy
-    - hcipy
-    - python-engineio
-    - python-socketio
+      - hcipy
+      - poppy
+      # web ui
+      - aiortc
+      - python-engineio
+      - python-socketio
