@@ -53,3 +53,5 @@ dependencies:
       - aiortc
       - python-engineio
       - python-socketio
+      - starlette
+      - uvicorn
