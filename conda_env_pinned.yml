@@ -191,7 +191,6 @@ dependencies:
     - click==7.1.2
     - h11==0.11.0
     - hcipy==0.3.1
-    - imagestreamiowrap==1.0.0
     - multidict==5.0.0
     - netifaces==0.10.9
     - poppy==0.9.1
