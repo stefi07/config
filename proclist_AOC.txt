@@ -1,17 +1,18 @@
-#Processes for the MagAO-X ICC
-#process-ID    Executable
-isAOC          xindiserver
-pdu0           trippLitePDU
-pdu1           trippLitePDU
-pdu2           trippLitePDU
-pdu3           trippLitePDU
-labCool        koolanceCtrl
-tcsi           tcsInterface
-adctrack       adcTracker
-aoc_icc_indi   sshDigger
-aoc_rtc_indi   sshDigger
-aoc_icc_milkzmq sshDigger
-aoc_rtc_milkzmq sshDigger
+#Processes for the MagAO-X AOC
+#process-ID       Executable
+isAOC             xindiserver
+pdu0              trippLitePDU
+pdu1              trippLitePDU
+pdu2              trippLitePDU
+pdu3              trippLitePDU
+labCool           koolanceCtrl
+tcsi              tcsInterface
+adctrack          adcTracker
+aoc_icc_indi      sshDigger
+aoc_rtc_indi      sshDigger
+aoc_icc_milkzmq   sshDigger
+aoc_rtc_milkzmq   sshDigger
 mzmqClientAOC_ICC mzmqClient
 mzmqClientAOC_RTC mzmqClient
-sysMonAOC      sysMonitor
+mzmqServerAOC     mzmqServer
+sysMonAOC         sysMonitor
