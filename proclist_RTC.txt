@@ -1,7 +1,7 @@
 #Processes for the MagAO-X RTC
 #process-ID    Executable
 isRTC          xindiserver
-aoloop         cacaoInterface
+holoop         cacaoInterface
 camwfs         ocam2KCtrl
 camwfs-dark    shmimIntegrator
 camwfs-sw      streamWriter
