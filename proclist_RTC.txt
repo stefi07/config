@@ -12,6 +12,7 @@ fxngenmodwfs   siglentSDG
 modwfs         ttmModulator
 dmtweeter      bmcCtrl
 dmtweeter-avg  shmimIntegrator
+rhtweeter      rhusbMon
 tweeterModes   dmMode
 dmwoofer       alpaoCtrl
 dmwoofer-avg   shmimIntegrator
