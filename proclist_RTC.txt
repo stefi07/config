@@ -23,4 +23,5 @@ mzmqServerRTC  mzmqServer
 rtc_icc_indi   sshDigger
 rtc_aoc_indi   sshDigger
 ttmpupil       pi335Ctrl
+gmtseg0        pi335Ctrl
 sysMonRTC      sysMonitor
