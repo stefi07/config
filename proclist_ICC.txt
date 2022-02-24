@@ -31,6 +31,7 @@ stagesci1      zaberCtrl
 stagesci2      zaberCtrl
 stagescibs     zaberCtrl
 stagelosel     zaberCtrl
+stagebs        zaberCtrl
 stagek         smc100ccCtrl
 stageadc1      smc100ccCtrl
 stageadc2      smc100ccCtrl
