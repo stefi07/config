@@ -10,6 +10,8 @@ tcsi              tcsInterface
 adctrack          adcTracker
 aoc_icc_indi      sshDigger
 aoc_rtc_indi      sshDigger
+aoc_icc_notebook      sshDigger
+aoc_rtc_notebook      sshDigger
 aoc_icc_milkzmq   sshDigger
 aoc_rtc_milkzmq   sshDigger
 mzmqClientAOC_ICC mzmqClient
