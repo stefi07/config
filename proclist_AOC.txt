@@ -18,3 +18,5 @@ mzmqClientAOC_ICC mzmqClient
 mzmqClientAOC_RTC mzmqClient
 mzmqServerAOC     mzmqServer
 sysMonAOC         sysMonitor
+observers         observerCtrl
+
