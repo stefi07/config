@@ -8,6 +8,7 @@ pdu3              trippLitePDU
 labCool           koolanceCtrl
 tcsi              tcsInterface
 adctrack          adcTracker
+ktrack            kTracker
 aoc_icc_indi      sshDigger
 aoc_rtc_indi      sshDigger
 aoc_icc_notebook      sshDigger
