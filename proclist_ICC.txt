@@ -12,6 +12,7 @@ camsci2-avg    shmimIntegrator
 camlowfs       andorCtrl
 camlowfs-dark  shmimIntegrator
 camlowfs-sw     streamWriter
+camlowfs-avg shmimIntegrator
 fliptip        flipperCtrl
 camtip         baslerCtrl
 camtip-sw      streamWriter
