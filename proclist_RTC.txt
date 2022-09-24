@@ -2,7 +2,7 @@
 #process-ID    Executable
 isRTC          xindiserver
 holoop         cacaoInterface
-#hogainctrl     userGainCtrl
+hogainctrl     userGainCtrl
 camwfs         ocam2KCtrl
 camwfs-dark    shmimIntegrator
 camwfs-sw      streamWriter
