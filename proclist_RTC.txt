@@ -28,4 +28,5 @@ ttmpupil       pi335Ctrl
 #gmtseg0        pi335Ctrl
 sysMonRTC      sysMonitor
 turbsim       acesxeCtrl
-
+stageturbsim  zaberCtrl
+zaberLLRTC    zaberLowLevel
