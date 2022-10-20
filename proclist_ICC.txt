@@ -53,6 +53,7 @@ usbdu1         acronameUsbHub
 dmncpc         alpaoCtrl
 ncpcModes      dmMode
 mzmqServerICC  mzmqServer
+mzmqServerICC_calib mzmqServer
 icc_aoc_indi   sshDigger
 icc_rtc_indi   sshDigger
 sysMonICC      sysMonitor
