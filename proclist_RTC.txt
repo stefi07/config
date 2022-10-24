@@ -9,6 +9,7 @@ camwfs-sw      streamWriter
 #camwfs-slopes  pwfsSlopeCalc
 camwfs-avg     shmimIntegrator
 camwfs-fit     pupilFit
+camsci1RTC-sw  streamWriter
 fxngenmodwfs   siglentSDG
 modwfs         ttmModulator
 dmtweeter      bmcCtrl
