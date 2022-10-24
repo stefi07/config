@@ -10,6 +10,9 @@ camwfs-sw      streamWriter
 camwfs-avg     shmimIntegrator
 camwfs-fit     pupilFit
 camsci1RTC-sw  streamWriter
+camsci2RTC-sw  streamWriter
+camlowfsRTC-sw streamWriter
+camtipRTC-sw   streamWriter
 fxngenmodwfs   siglentSDG
 modwfs         ttmModulator
 dmtweeter      bmcCtrl
