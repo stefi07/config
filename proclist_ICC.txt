@@ -36,6 +36,7 @@ stagescibs     zaberCtrl
 stagelosel     zaberCtrl
 stagebs        zaberCtrl
 stagepiaa1     zaberCtrl
+stagepiaa2     zaberCtrl
 stagek         smc100ccCtrl
 stageadc1      smc100ccCtrl
 stageadc2      smc100ccCtrl
@@ -52,6 +53,7 @@ usbdu1         acronameUsbHub
 dmncpc         alpaoCtrl
 ncpcModes      dmMode
 mzmqServerICC  mzmqServer
+mzmqServerICC_calib mzmqServer
 icc_aoc_indi   sshDigger
 icc_rtc_indi   sshDigger
 sysMonICC      sysMonitor
