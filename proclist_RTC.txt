@@ -9,6 +9,7 @@ camwfs-sw      streamWriter
 #camwfs-slopes  pwfsSlopeCalc
 camwfs-avg     shmimIntegrator
 camwfs-fit     pupilFit
+camwfs-align   alignLoop
 camsci1RTC-sw  streamWriter
 camsci2RTC-sw  streamWriter
 camlowfsRTC-sw streamWriter
