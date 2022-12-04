@@ -6,7 +6,7 @@ pdu1              trippLitePDU
 pdu2              trippLitePDU
 pdu3              trippLitePDU
 labCool           koolanceCtrl
-tcsi              tcsInterface
+#tcsi              tcsInterface
 adctrack          adcTracker
 ktrack            kTracker
 aoc_icc_indi      sshDigger
