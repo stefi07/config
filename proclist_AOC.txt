@@ -20,4 +20,5 @@ mzmqClientAOC_RTC mzmqClient
 mzmqServerAOC     mzmqServer
 # sysMonAOC         sysMonitor
 observers         observerCtrl
+fxngensync         siglentSDG
 
