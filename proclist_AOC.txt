@@ -21,4 +21,4 @@ mzmqServerAOC     mzmqServer
 # sysMonAOC         sysMonitor
 observers         observerCtrl
 fxngensync         siglentSDG
-
+purepyindi_example purepyindi_example
