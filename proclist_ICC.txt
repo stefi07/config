@@ -61,7 +61,7 @@ temprack       usbtempMon
 instCool       koolanceCtrl
 loloop         cacaoInterface
 logainctrl     userGainCtrl
-tcsi           tcsInterface
+#tcsi           tcsInterface
 camtip-char    imgChar
 camlowfs-char  imgChar
 camsci1-char   imgChar
