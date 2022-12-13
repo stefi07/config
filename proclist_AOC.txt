@@ -17,6 +17,7 @@ aoc_icc_milkzmq   sshDigger
 aoc_rtc_milkzmq   sshDigger
 mzmqClientAOC_ICC mzmqClient
 mzmqClientAOC_RTC mzmqClient
+mzmqClientAOC_RTCcamwfs mzmqClient
 mzmqServerAOC     mzmqServer
 # sysMonAOC         sysMonitor
 observers         observerCtrl
