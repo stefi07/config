@@ -29,6 +29,7 @@ wooferModes    dmMode
 t2wOffloader   t2wOffloader
 w2tcsOffloader w2tcsOffloader
 mzmqServerRTC  mzmqServer
+mzmqServerRTCcamwfs mzmqServer
 rtc_icc_indi   sshDigger
 rtc_aoc_indi   sshDigger
 ttmpupil       pi335Ctrl
