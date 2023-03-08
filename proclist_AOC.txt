@@ -15,6 +15,7 @@ aoc_icc_notebook      sshDigger
 aoc_rtc_notebook      sshDigger
 aoc_icc_milkzmq   sshDigger
 aoc_rtc_milkzmq   sshDigger
+aoc_icc_istcsi    sshDigger
 mzmqClientAOC_ICC mzmqClient
 mzmqClientAOC_RTC mzmqClient
 mzmqClientAOC_RTCcamwfs mzmqClient
@@ -23,3 +24,4 @@ mzmqServerAOC     mzmqServer
 observers         observerCtrl
 fxngensync         siglentSDG
 purepyindi_example purepyindi_example
+maggieo_x            maggieoCtrl
