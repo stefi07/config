@@ -3,6 +3,8 @@
 isRTC          xindiserver
 holoop         cacaoInterface
 hogainctrl     userGainCtrl
+wloop          cacaoInterface
+wgainctrl      userGainCtrl
 #camwfs         ocam2KCtrl
 camwfs         andorCtrl
 camwfs-dark    shmimIntegrator
@@ -32,6 +34,7 @@ w2tcsOffloader w2tcsOffloader
 mzmqServerRTC  mzmqServer
 mzmqServerRTCcamwfs mzmqServer
 mzmqServerRTCpsds mzmqServer
+mzmqServerRTC_calib mzmqServer
 rtc_icc_indi   sshDigger
 rtc_aoc_indi   sshDigger
 rtc_icc_istcsi sshDigger
