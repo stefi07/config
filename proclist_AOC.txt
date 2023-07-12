@@ -19,6 +19,7 @@ aoc_icc_istcsi    sshDigger
 mzmqClientAOC_ICC mzmqClient
 mzmqClientAOC_RTC mzmqClient
 mzmqClientAOC_RTCcamwfs mzmqClient
+mzmqClientAOC_RTCpsds mzmqClient
 mzmqServerAOC     mzmqServer
 # sysMonAOC         sysMonitor
 observers         observerCtrl
