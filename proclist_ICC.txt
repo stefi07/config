@@ -1,6 +1,8 @@
 #Processes for the MagAO-X ICC
 #process-ID    Executable
 isICC          xindiserver
+isTCSI         xindiserver
+icc_icc_istcsi sshDigger
 camsci1        picamCtrl
 camsci1-dark   shmimIntegrator
 camsci1-sw      streamWriter
@@ -9,10 +11,10 @@ camsci2        picamCtrl
 camsci2-dark   shmimIntegrator
 camsci2-sw      streamWriter
 camsci2-avg    shmimIntegrator
-camlowfs       andorCtrl
-camlowfs-dark  shmimIntegrator
-camlowfs-sw     streamWriter
-camlowfs-avg shmimIntegrator
+#camlowfs       andorCtrl
+#camlowfs-dark  shmimIntegrator
+#camlowfs-sw     streamWriter
+#camlowfs-avg shmimIntegrator
 fliptip        flipperCtrl
 camtip         baslerCtrl
 camtip-sw      streamWriter
@@ -62,8 +64,9 @@ instCool       koolanceCtrl
 loloop         cacaoInterface
 logainctrl     userGainCtrl
 tcsi           tcsInterface
-camtip-char    imgChar
-camlowfs-char  imgChar
-camsci1-char   imgChar
-camsci2-char   imgChar
+#camtip-char    imgChar
+#camlowfs-char  imgChar
+#camsci1-char   imgChar
+#camsci2-char   imgChar
 camvisx        visxCtrl
+camngws         baslerCtrl
